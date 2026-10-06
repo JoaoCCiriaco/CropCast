@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/logo.png" alt="CropCast: Climate Forecasting for European Crops" width="640"></p>
 
-<p align="center"><b><a href="https://YOUR-SITE-URL">Open the live platform</a></b> · <a href="https://YOUR-SITE-URL/methodology.html">Methodology &amp; Limitations</a></p>
+<p align="center"><b><a href="https://cropcast-5rcn.onrender.com/app/">Open the live platform</a></b> · <a href="https://cropcast-5rcn.onrender.com/methodology.html">Methodology &amp; Limitations</a></p>
 
 # CropCast
 
